@@ -1,0 +1,13 @@
+h1, h2 {
+    text-align: center;
+}
+
+.col {
+    display: grid;
+    align-items: start;
+    height: 170px;
+}
+
+p {
+    text-align: justify;
+}
